@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=bansos-plymouth
+Description=Bansos Plymouth theme by - Kelompok 5
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/bansos-plymouth
+ScriptFile=/usr/share/plymouth/themes/bansos-plymouth/bansos-plymouth.script
